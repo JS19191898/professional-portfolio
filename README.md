@@ -3,6 +3,7 @@
 I had a fair amount of trouble with the css on this one. As of this README version, I have requested tutoring to help me go back and learn ways to touch up the css. Otherwise, the smooth scrolling is functional and specific for each anchor link. There is a visual interactivity with pictures, and the items under the "Work" section have functional embedded hyperlinks. This is one that is going to be an ongoing personal project, for sure! 
 
 Repo link: https://github.com/JS19191898/professional-portfolio
+
 Webpage link: 
 
 Screenshots: 
